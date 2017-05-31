@@ -1,3 +1,2 @@
-# MSE FTP Fourier
-## From fourier to wavelets
-FS 2017
+# MSE FTP Fourier (FS 2017)
+## From Fourier to Wavelets
