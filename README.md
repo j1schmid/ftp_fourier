@@ -7,4 +7,4 @@ PyWavelets is briefly but well [documented](https://pywavelets.readthedocs.io/en
 
 NOTE:
 You might need to install some python packages:
-'''pip2 install PyWavelets matplotlib opencv-python'''
+```pip2 install PyWavelets matplotlib opencv-python```
