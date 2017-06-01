@@ -6,5 +6,5 @@ Some exercises/problems are treated with python (version 2.7) using the packages
 PyWavelets is briefly but well [documented](https://pywavelets.readthedocs.io/en/latest/ref/index.html "PyWavelets Documentation"), might more specific the [API Reference](https://pywavelets.readthedocs.io/en/latest/ref/index.html "PyWavelets API Reference").
 
 NOTE:
-You might need to install some python packages:
-```pip2 install PyWavelets matplotlib opencv-python```
+You might need to install some python packages: 
+    pip2 install PyWavelets matplotlib opencv-python
