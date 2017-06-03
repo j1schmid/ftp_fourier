@@ -4,8 +4,9 @@
 # mse ftp_fourier (spring semester 2017)
 #
 # application exercise 6.1 and 6.2
-# apply the 2 dimensional disc rete wavelet transform and thresholding to 
-# compress an image
+# denoise signals by thresholding the discrete wavelet transform and reconstruct
+# the signal, compare soft and hard thresholding, determine the threshold
+# automaticaly
 
 from __future__ import print_function
 import sys
