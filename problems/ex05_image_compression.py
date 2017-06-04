@@ -15,10 +15,15 @@ import pdb
 import pywt
 from numpy import genfromtxt
 import cv2
+import os.path
 
 def main():
 	
 	FILENAME='data/Kueken'
+	if not os.path.isfile(FILENAME):
+		print('\'{:s}.*\' not found, copy it from the fourier course folder'.format(FILENAME))
+		return
+
 	#bmp = cv2.imread(FILENAME + '.bmp', flags=cv2.CV_LOAD_IMAGE_GRAYSCALE)
 	#jpg = cv2.imread(FILENAME + '.jpg', flags=cv2.CV_LOAD_IMAGE_GRAYSCALE)
 	png = cv2.imread(FILENAME + '.png') #, flags=cv2.COLOR_BGR2GRAY)
