@@ -15,4 +15,4 @@ You might need to install some python packages:
 
 ### Octave/Matlab
 
-Im working with octave, the scripts will run with some small modifications in matlab. You might need to delet or comment one of the first lines 'pkg load ...'. in octave the "toolboxes"/packages must be loaded explicitly.
+Im working with octave, the scripts will run with some small modifications in matlab. You might need to delet or comment one of the first lines `pkg load ...`. in octave the "toolboxes"/packages must be loaded explicitly.
