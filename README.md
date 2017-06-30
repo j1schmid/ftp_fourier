@@ -3,7 +3,7 @@
 
 Some exercises/problems are treated with python (version 2.7) or octave, thanks to the open source community. The exercises/problems are not solved at all, but with some small modifications it is easy to get what is questioned. 
 
-The 'ps##_....' files coresponds to the 'ftp_fourier_theoryps##.pdf' problem sheets in the theory part (part I, week 2-8). The 'ex##_...' files coresponds to the exercise sheets 'ftp_fourier_app_ex##.pdf' in the application part (part II, week 1, 9-14).
+The `ps##_....` files coresponds to the `ftp_fourier_theoryps##.pdf` problem sheets in the theory part (part I, week 2-8). The `ex##_...` files coresponds to the exercise sheets `ftp_fourier_app_ex##.pdf` in the application part (part II, week 1, 9-14).
 
 ### Python
 
